@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="Assfdlsanmfewkr3.Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="SiteStyleSheet.css"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+            </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 150px;
+        }
+    </style>
+</head>
+<body>
+
+    <form id="form1" runat="server" class="holder">
+        <table>
+            <tr>
+            <td class="auto-style1">
+                <asp:Image ID="Image1" runat="server" ImageUrl="~/Resources/AZCLogo.jpg" />
+            </td>
+            <td style="font-size: 20px">
+                <p  style="font-size: 40px">Anderson Zeppelin Company</p>
+                What goes up always comes down
+            </td></tr>
+        </table>
+       
+        
+        <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+            <Items>
+                <asp:MenuItem NavigateUrl="~/Reservation Request.aspx" Text="Reservation" Value="New Item"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/Specials.aspx" Text="Specials" Value="New Item"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/About Us .aspx" Text="About" Value="About"></asp:MenuItem>
+            </Items>
+        </asp:Menu>
+&nbsp;<div>
+        <asp:ContentPlaceHolder ID="MainHolder" runat="server">
+        
+            <p>
+                Content Page</p>
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    
+</body>
+</html>

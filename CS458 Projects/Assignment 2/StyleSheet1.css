@@ -1,0 +1,91 @@
+﻿body,input{
+    font-family: 'Comic Sans MS';
+}
+.holder {
+    border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+border: 1px outset #006d75;
+padding: 14px;
+/*margin: 0 auto;*/
+/*width: 300px;*/
+/*align-items: center;*/
+/*position: absolute;*/
+}
+
+  .textbox, .total { 
+    background: white; 
+    border: 1px solid black; 
+    border-radius: 5px; 
+    box-shadow: 0 0 1px 1px gray; 
+    color: #666; 
+    outline: none; 
+   padding: 5px;
+   /*Make the box unselectable text...*/
+   -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    /*-khtml-user-select: none;*/
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  } 
+  table,tr,td{
+      padding:3px;
+  }
+
+  .textbox:focus {
+    background: white; 
+    border: 1px solid deepskyblue; 
+    border-radius: 5px; 
+    box-shadow: 0 0 5px 2px deepskyblue; 
+    color: black; 
+    outline: none; 
+   padding: 5px;
+
+}
+  .button {
+    font-size: 13px;
+    font-family: Comic Sans MS;
+    font-weight: normal;
+    text-decoration: inherit;
+    -webkit-border-radius: 7px 7px 7px 7px;
+    -moz-border-radius: 7px 7px 7px 7px;
+    border-radius: 7px 7px 7px 7px;
+    padding: 7px 32px;
+    text-shadow: 1px 1px 0px #5E5E5E;
+    -webkit-box-shadow: inset 1px 1px 0px 0px #BEE2F9;
+    -moz-box-shadow: inset 1px 1px 0px 0px #BEE2F9;
+    box-shadow: inset 1px 1px 0px 0px #BEE2F9;
+    cursor: pointer;
+    color: #FFFFFF;
+    display: inline-block;
+    background: -webkit-linear-gradient(90deg, #468ccf 5%, #63b8ee 100%);
+    background: -moz-linear-gradient(90deg, #468ccf 5%, #63b8ee 100%);
+   
+    background: linear-gradient(180deg, #63b8ee 5%, #468ccf 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#63b8ee",endColorstr="#468ccf");
+}
+
+.button:hover {
+    background: -webkit-linear-gradient(90deg, #63b8ee 5%, #468ccf 100%);
+    background: -moz-linear-gradient(90deg, #63b8ee 5%, #468ccf 100%);
+    
+    background: linear-gradient(180deg, #468ccf 5%, #63b8ee 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#468ccf",endColorstr="#63b8ee");
+}
+
+.button:active {
+    position:relative;
+    top: 1px;
+}
+
+.pictureTitle{
+    padding:5px;
+}
+body {
+    display: flex;
+    justify-content:center;
+    text-align: center;
+    /*position: relative;*/
+    
+    }

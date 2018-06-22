@@ -1,0 +1,124 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CINS237Projects
+</name>
+</assembly>
+<members>
+<member name="P:CINS237_Projects.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CINS237_Projects.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CINS237_Projects.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSet.tblCharDataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSet.tblPhraseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSet.tblTestDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSet.tblUserDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSet.tblCharDataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSet.tblPhraseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSet.tblTestRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSet.tblUserRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSet.tblCharDataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSet.tblPhraseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSet.tblTestRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSet.tblUserRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSetTableAdapters.tblCharDataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSetTableAdapters.tblPhraseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSetTableAdapters.tblTestTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSetTableAdapters.tblUserTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CINS237_Projects.DB_24101_danielDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CINS237_Projects.DB_24101_danielDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CINS237_Projects.DB_24101_danielDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CINS237_Projects.DB_24101_danielDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CINS237_Projects.DB_24101_danielDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CINS237_Projects.DB_24101_danielDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CINS237_Projects.DB_24101_danielDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CINS237_Projects.DB_24101_danielDataSetTableAdapters.TableAdapterManager.UpdateAll(CINS237_Projects.DB_24101_danielDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CINS237_Projects.DB_24101_danielDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

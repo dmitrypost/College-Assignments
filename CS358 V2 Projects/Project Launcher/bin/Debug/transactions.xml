@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<RecieptList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TransactionReciepts>
+    <Reciept>
+      <datetime>2014-01-01T00:00:00</datetime>
+      <Items>
+        <LineItem>
+          <price>0.3</price>
+          <name>Aluminum sheet</name>
+          <quantity>0</quantity>
+        </LineItem>
+      </Items>
+    </Reciept>
+    <Reciept>
+      <datetime>2015-10-29T20:00:59.7126058-05:00</datetime>
+      <Items>
+        <LineItem>
+          <price>0.36</price>
+          <name>Aluminum cans</name>
+          <quantity>5</quantity>
+        </LineItem>
+        <LineItem>
+          <price>1.6</price>
+          <name>Copper #2</name>
+          <quantity>2</quantity>
+        </LineItem>
+        <LineItem>
+          <price>0.3</price>
+          <name>Brass Dirty</name>
+          <quantity>2</quantity>
+        </LineItem>
+        <LineItem>
+          <price>0.3</price>
+          <name>Aluminum siding</name>
+          <quantity>0</quantity>
+        </LineItem>
+        <LineItem>
+          <price>0.35</price>
+          <name>Aluminum Wheels</name>
+          <quantity>0</quantity>
+        </LineItem>
+      </Items>
+    </Reciept>
+    <Reciept>
+      <datetime>2015-10-29T20:00:58.7126058-05:00</datetime>
+      <Items>
+        <LineItem>
+          <price>0.36</price>
+          <name>Aluminum cans</name>
+          <quantity>5</quantity>
+        </LineItem>
+        <LineItem>
+          <price>1.6</price>
+          <name>Copper #2</name>
+          <quantity>2</quantity>
+        </LineItem>
+        <LineItem>
+          <price>0.3</price>
+          <name>Brass Dirty</name>
+          <quantity>2</quantity>
+        </LineItem>
+        <LineItem>
+          <price>0.3</price>
+          <name>Aluminum siding</name>
+          <quantity>0</quantity>
+        </LineItem>
+      </Items>
+    </Reciept>
+    <Reciept>
+      <datetime>2015-10-29T20:00:57.7126058-05:00</datetime>
+      <Items>
+        <LineItem>
+          <price>0.36</price>
+          <name>Aluminum cans</name>
+          <quantity>5</quantity>
+        </LineItem>
+        <LineItem>
+          <price>1.6</price>
+          <name>Copper #2</name>
+          <quantity>2</quantity>
+        </LineItem>
+        <LineItem>
+          <price>0.3</price>
+          <name>Brass Dirty</name>
+          <quantity>2</quantity>
+        </LineItem>
+        <LineItem>
+          <price>0.3</price>
+          <name>Aluminum siding</name>
+          <quantity>0</quantity>
+        </LineItem>
+        <LineItem>
+          <price>0.35</price>
+          <name>Aluminum Wheels</name>
+          <quantity>0</quantity>
+        </LineItem>
+      </Items>
+    </Reciept>
+    <Reciept>
+      <datetime>2015-10-29T20:18:37.816364-05:00</datetime>
+      <Items>
+        <LineItem>
+          <price>0.35</price>
+          <name>Aluminum Wheels</name>
+          <quantity>2</quantity>
+        </LineItem>
+      </Items>
+    </Reciept>
+    <Reciept>
+      <datetime>2015-10-29T20:21:01.2946157-05:00</datetime>
+      <Items />
+    </Reciept>
+    <Reciept>
+      <datetime>2015-10-30T13:39:53.0292105-05:00</datetime>
+      <Items>
+        <LineItem>
+          <price>0.06</price>
+          <name>Heavy Metal</name>
+          <quantity>80</quantity>
+        </LineItem>
+        <LineItem>
+          <price>0.06</price>
+          <name>Heavy Metal</name>
+          <quantity>80</quantity>
+        </LineItem>
+        <LineItem>
+          <price>0.06</price>
+          <name>Heavy Metal</name>
+          <quantity>80</quantity>
+        </LineItem>
+        <LineItem>
+          <price>0.06</price>
+          <name>Heavy Metal</name>
+          <quantity>80</quantity>
+        </LineItem>
+        <LineItem>
+          <price>0.06</price>
+          <name>Heavy Metal</name>
+          <quantity>80</quantity>
+        </LineItem>
+        <LineItem>
+          <price>0.06</price>
+          <name>Heavy Metal</name>
+          <quantity>80</quantity>
+        </LineItem>
+        <LineItem>
+          <price>0.06</price>
+          <name>Heavy Metal</name>
+          <quantity>80</quantity>
+        </LineItem>
+      </Items>
+    </Reciept>
+  </TransactionReciepts>
+</RecieptList>

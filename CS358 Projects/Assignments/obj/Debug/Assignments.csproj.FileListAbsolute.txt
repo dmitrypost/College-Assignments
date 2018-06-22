@@ -1,0 +1,37 @@
+H:\CS358 Projects\CS358 Projects\Assignments\bin\Debug\Assignments.exe.config
+H:\CS358 Projects\CS358 Projects\Assignments\bin\Debug\Assignments.exe
+H:\CS358 Projects\CS358 Projects\Assignments\bin\Debug\Assignments.pdb
+H:\CS358 Projects\CS358 Projects\Assignments\obj\Debug\Assignments.csprojResolveAssemblyReference.cache
+H:\CS358 Projects\CS358 Projects\Assignments\obj\Debug\Assignments.Assignment_8_Calc.resources
+H:\CS358 Projects\CS358 Projects\Assignments\obj\Debug\Assignments.Properties.Resources.resources
+H:\CS358 Projects\CS358 Projects\Assignments\obj\Debug\Assignments.csproj.GenerateResource.Cache
+H:\CS358 Projects\CS358 Projects\Assignments\obj\Debug\Assignments.exe
+H:\CS358 Projects\CS358 Projects\Assignments\obj\Debug\Assignments.pdb
+H:\CS358 Projects\CS358 Projects\Assignments\obj\Debug\Assignments.Assignment_9_Cafe.resources
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Assignments\bin\Debug\Assignments.exe.config
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Assignments\bin\Debug\Assignments.exe
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Assignments\bin\Debug\Assignments.pdb
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Assignments\obj\Debug\Assignments.Assignment_8_Calc.resources
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Assignments\obj\Debug\Assignments.Assignment_9_Cafe.resources
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Assignments\obj\Debug\Assignments.Properties.Resources.resources
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Assignments\obj\Debug\Assignments.csproj.GenerateResource.Cache
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Assignments\obj\Debug\Assignments.exe
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Assignments\obj\Debug\Assignments.pdb
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\bin\Debug\Assignment 12\Students.txt
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\bin\Debug\Extra Credit 1\EndOfRecieptMessage.txt
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\bin\Debug\Extra Credit 1\MenuItems.txt
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\bin\Debug\Assignments.exe.config
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\bin\Debug\Assignments.exe
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\bin\Debug\Assignments.pdb
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\bin\Debug\SQLDll.dll
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\obj\Debug\Assignments.csprojResolveAssemblyReference.cache
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\obj\Debug\Assignments.Assignment_11.Bank.resources
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\obj\Debug\Assignments.Assignment_12.Student_Data.resources
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\obj\Debug\Assignments.Assignment_13.ATM.resources
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\obj\Debug\Assignments.Assignment_8_Calc.resources
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\obj\Debug\Assignments.Assignment_9_Cafe.resources
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\obj\Debug\CafeKiosk.CafeKiosk.resources
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\obj\Debug\Assignments.Properties.Resources.resources
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\obj\Debug\Assignments.csproj.GenerateResource.Cache
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\obj\Debug\Assignments.exe
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Assignments\obj\Debug\Assignments.pdb

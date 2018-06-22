@@ -1,0 +1,5 @@
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

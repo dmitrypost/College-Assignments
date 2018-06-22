@@ -1,0 +1,5 @@
+﻿Features to add:
+
+Create relative location finding of the assemblies to load...
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/0801ef52-fa5b-471f-b98a-7dad91f66bfb/find-file-based-upon-relative-location?forum=vbgeneral&prof=required
+

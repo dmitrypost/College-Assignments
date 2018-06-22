@@ -1,0 +1,1 @@
+UPDATE Location SET L_Zip = 47630 WHERE L_Zip = 47630;

@@ -1,0 +1,25 @@
+﻿Modify the supplied class ArrayListClass the following ways:
+a)  the method remove(), which is inherited from the class ArrayListClass, of the class UnorderedArrayList removes an element 
+from the list by shifting the elements of the list.  
+However, if the element to be removed is at the beginning of the list and 
+the list is fairly large, it could take a lot of computer time to perform the operation.  Because the list elements are in no 
+particular order, you could simply remove the element by copying the last element in the list at the position of the item to be 
+removed and reducing the length of the list.  Redefine the method remove(), in the class UnorderedArrayList, using this technique.
+
+b)  the method remove of the class ArrayListClass removes only the first occurrence of an element.  Add the method removeAll() to 
+the class ArrayListClass as an abstract method that would remove all occurrences of a given element.  (Note that you must add the
+ method removeAll() in the interface ArrayListADT.)  Also, write the definition of the method in the class UnorderedArrayList.
+
+c)  add the methods min and max to the class ArrayListClass, as abstract methods, to return the smallest and largest respective
+ elements in the list.  
+ Also, write the definitions of the methods in the class UnorderedArrayList.
+
+d) add an insertion sort method that puts the ArrayList in order.
+
+e) implement an OrderedLinkedList class using the methods identified in LinkedListADT. 
+
+f) demonstrate that your classes work for at least int, double, and string.
+
+g)  Write a program which thoroughly tests these modifications and demonstrates correctness.
+
+

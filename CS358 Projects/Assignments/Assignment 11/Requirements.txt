@@ -1,0 +1,7 @@
+﻿Create a BankAccount class that can be used to maintain a bank account balance. 
+Its constructors, properties, and methods should throw a NegativeBalanceException if there is an attempt to take the balance below zero, 
+ a NegativeDepositException if there is an attempt to deposit a negative amount, and a NegativeWithdrawalException if there is an attempt to withdraw a negative amount. 
+ 
+ Write the exception classes to extend the ApplicationException class to include additional functionality of a new message detailing the error being sent when an exception is thrown.
+ 
+ Write a GUI Windows Form Application to use to test the exception-handling techniques.  Include buttons and textboxes for deposits and withdrawals.

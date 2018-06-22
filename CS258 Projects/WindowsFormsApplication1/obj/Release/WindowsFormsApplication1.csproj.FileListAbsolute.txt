@@ -1,0 +1,4 @@
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\WindowsFormsApplication1\obj\Release\System.Form1.resources
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\WindowsFormsApplication1\obj\Release\System.Properties.Resources.resources
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache

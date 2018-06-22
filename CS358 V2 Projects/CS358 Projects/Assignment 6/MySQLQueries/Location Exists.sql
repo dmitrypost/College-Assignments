@@ -1,0 +1,1 @@
+SELECT * from Location where L_Zip = 477630;

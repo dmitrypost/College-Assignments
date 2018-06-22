@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{012327A3-B54A-4722-8CA5-EA0E98CD4284}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Assignments</RootNamespace>
+    <AssemblyName>Assignments</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Assignments.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="SQLDll, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Assignment 13\SQLDll.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assignment 10\ArrayList.cs" />
+    <Compile Include="Assignment 10\ArrayListADT.cs" />
+    <Compile Include="Assignment 10\LinkedListADT.cs" />
+    <Compile Include="Assignment 10\OrderedLinkedListADT.cs" />
+    <Compile Include="Assignment 10\Program.cs" />
+    <Compile Include="Assignment 10\UnorderedArrayList.cs" />
+    <Compile Include="Assignment 11\Bank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 11\Bank.Designer.cs">
+      <DependentUpon>Bank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 11\BankAccount.cs" />
+    <Compile Include="Assignment 12\Student Data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 12\Student Data.Designer.cs">
+      <DependentUpon>Student Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 13\ATM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 13\ATM.Designer.cs">
+      <DependentUpon>ATM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 8 Calc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 8 Calc.Designer.cs">
+      <DependentUpon>Assignment 8 Calc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 9 Cafe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 9 Cafe.Designer.cs">
+      <DependentUpon>Assignment 9 Cafe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Extra Credit 1\CafeKiosk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Extra Credit 1\CafeKiosk.Designer.cs">
+      <DependentUpon>CafeKiosk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Assignment 11\Bank.resx">
+      <DependentUpon>Bank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 12\Student Data.resx">
+      <DependentUpon>Student Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 13\ATM.resx">
+      <DependentUpon>ATM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 8 Calc.resx">
+      <DependentUpon>Assignment 8 Calc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 9 Cafe.resx">
+      <DependentUpon>Assignment 9 Cafe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Extra Credit 1\CafeKiosk.resx">
+      <DependentUpon>CafeKiosk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Assignment 13\ATM Application.docx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assignment 10\Requirements.txt" />
+    <Content Include="Assignment 11\Requirements.txt" />
+    <None Include="Extra Credit 1\basic1-153_caffee-512.png" />
+    <Content Include="Assignment 12\Students.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assignment 13\SQLDll.dll" />
+    <Content Include="Extra Credit 1\EndOfRecieptMessage.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Extra Credit 1\MenuItems.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Extra Credit 1\Requirements.txt" />
+    <Content Include="Extra Credit 1\SalesReport.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assignment 14\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

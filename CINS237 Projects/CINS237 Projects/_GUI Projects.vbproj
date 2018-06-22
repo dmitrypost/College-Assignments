@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{021B82DB-78D7-47F0-8159-D027931331F9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CINS237_Projects.My.MyApplication</StartupObject>
+    <RootNamespace>CINS237_Projects</RootNamespace>
+    <AssemblyName>CINS237 Projects</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CINS237 Projects.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CINS237 Projects.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="7 Segment Display.Designer.vb">
+      <DependentUpon>7 Segment Display.vb</DependentUpon>
+    </Compile>
+    <Compile Include="7 Segment Display.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="7 Segment.vb" />
+    <Compile Include="ACL Proof Of Concept.Designer.vb">
+      <DependentUpon>ACL Proof Of Concept.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ACL Proof Of Concept.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bouncing Ball.Designer.vb">
+      <DependentUpon>Bouncing Ball.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bouncing Ball.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Credit Card Validator.Designer.vb">
+      <DependentUpon>Credit Card Validator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Credit Card Validator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DB_24101_danielDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_24101_danielDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fibonacci Sequence.Designer.vb">
+      <DependentUpon>Fibonacci Sequence.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fibonacci Sequence.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bingo.Designer.vb">
+      <DependentUpon>Bingo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bingo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Microwave Oven Simulator.Designer.vb">
+      <DependentUpon>Microwave Oven Simulator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Microwave Oven Simulator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mine Sweep Game.Designer.vb">
+      <DependentUpon>Mine Sweep Game.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mine Sweep Game.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MinePlacer.Designer.vb">
+      <DependentUpon>MinePlacer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MinePlacer.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Remote Database Display.Designer.vb">
+      <DependentUpon>Remote Database Display.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Remote Database Display.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics.vb" />
+    <Compile Include="Sudoku Solver.Designer.vb">
+      <DependentUpon>Sudoku Solver.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sudoku Solver.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="7 Segment Display.resx">
+      <DependentUpon>7 Segment Display.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACL Proof Of Concept.resx">
+      <DependentUpon>ACL Proof Of Concept.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bouncing Ball.resx">
+      <DependentUpon>Bouncing Ball.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Credit Card Validator.resx">
+      <DependentUpon>Credit Card Validator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fibonacci Sequence.resx">
+      <DependentUpon>Fibonacci Sequence.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bingo.resx">
+      <DependentUpon>Bingo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Microwave Oven Simulator.resx">
+      <DependentUpon>Microwave Oven Simulator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mine Sweep Game.resx">
+      <DependentUpon>Mine Sweep Game.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MinePlacer.resx">
+      <DependentUpon>MinePlacer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Remote Database Display.resx">
+      <DependentUpon>Remote Database Display.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sudoku Solver.resx">
+      <DependentUpon>Sudoku Solver.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="DB_24101_danielDataSet.xsc">
+      <DependentUpon>DB_24101_danielDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DB_24101_danielDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_24101_danielDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_24101_danielDataSet.xss">
+      <DependentUpon>DB_24101_danielDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

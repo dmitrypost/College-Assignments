@@ -1,0 +1,1 @@
+UPDATE Location SET L_City = 'Newburgh' WHERE L_Zip = 47630;

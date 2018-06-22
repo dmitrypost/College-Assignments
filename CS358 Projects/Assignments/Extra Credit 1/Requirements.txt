@@ -1,0 +1,9 @@
+﻿This extra credit is worth 25 points toward your combined exam scores.  Attached is a horrible Cafe point-of-sale software.  You must modify the software to do the following:
+1.) Your offerings and prices should be read from a file.  Prices should be read only once,
+2.) Your offerings should be sorted and presented in alphabetic order.  Use a bubble or insertion sort,
+3.) Change the name of the café to something of your choosing,
+4.) The state tax is 6% and the local tax is 1%,
+5.) The menu should display more items,
+6.) The message displayed at the bottom of the receipt should be read from a file, and
+7.) Produce a Day-End Report which reports total sales and sales tax collected,
+8.) Use color and/or graphics to enhance the GUI.  Full credit will be given only if the presentation looks professionally developed.

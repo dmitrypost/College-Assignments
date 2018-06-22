@@ -1,0 +1,44 @@
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\Main\bin\Debug\Main.exe.config
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\Main\bin\Debug\Main.exe
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\Main\bin\Debug\Main.pdb
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\Main\bin\Debug\Homework.exe
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\Main\bin\Debug\System.dll
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\Main\bin\Debug\Homework.pdb
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\Main\obj\Debug\NSMain.Main.resources
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\Main\obj\Debug\NSMain.Properties.Resources.resources
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\Main\obj\Debug\Main.exe
+D:\Skydrive\Visual Studio 2013\Projects\CS258 Projects\Main\obj\Debug\Main.pdb
+H:\CS358 Projects\CS358 Projects\Main\bin\Debug\Main.exe.config
+H:\CS358 Projects\CS358 Projects\Main\obj\Debug\Main.exe
+H:\CS358 Projects\CS358 Projects\Main\obj\Debug\Main.pdb
+H:\CS358 Projects\CS358 Projects\Main\bin\Debug\Main.exe
+H:\CS358 Projects\CS358 Projects\Main\bin\Debug\Main.pdb
+H:\CS358 Projects\CS358 Projects\Main\bin\Debug\System.dll
+H:\CS358 Projects\CS358 Projects\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+H:\CS358 Projects\CS358 Projects\Main\obj\Debug\NSMain.Main.resources
+H:\CS358 Projects\CS358 Projects\Main\obj\Debug\NSMain.Properties.Resources.resources
+H:\CS358 Projects\CS358 Projects\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Main\bin\Debug\Main.exe.config
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Main\bin\Debug\Main.exe
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Main\bin\Debug\Main.pdb
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Main\bin\Debug\System.dll
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Main\obj\Debug\NSMain.Main.resources
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Main\obj\Debug\NSMain.Properties.Resources.resources
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Main\obj\Debug\Main.exe
+\\mydocs\home$\d\dpost\CS358 Projects\CS358 Projects\Main\obj\Debug\Main.pdb
+H:\CS358 Projects\Main\bin\Debug\Main.exe.config
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Main\bin\Debug\Main.exe.config
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Main\bin\Debug\bin\Debug\MenuItems.txt
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Main\bin\Debug\Main.exe
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Main\bin\Debug\Main.pdb
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Main\bin\Debug\System.dll
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Main\obj\Debug\NSMain.Main.resources
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Main\obj\Debug\NSMain.Properties.Resources.resources
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Main\obj\Debug\Main.exe
+D:\Skydrive\Visual Studio 2013\Projects\CS358 Projects\Main\obj\Debug\Main.pdb

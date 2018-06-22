@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="TrollUniversity.master.cs" Inherits="Assignment_4.TrollUniversity" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Troll University</title>
+    
+</head>
+<body><form id="form1" runat="server">
+<asp:Image ID="Troll" runat="server"  Height="150px" Width="1000px" ImageUrl="~/Resources/Troll University.png"></asp:Image>
+     <link href="Main.css" rel="stylesheet" type="text/css" />
+    <br />
+    <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+        <Items>
+            <asp:MenuItem NavigateUrl="~/Student View.aspx" ImageUrl="~/Resources/StudentView.png"></asp:MenuItem>
+            <asp:MenuItem ImageUrl="~/Resources/Seperator.fw.png"></asp:MenuItem>
+            <asp:MenuItem NavigateUrl="~/Courses View.aspx" ImageUrl="~/Resources/CoursesView.fw.png"></asp:MenuItem>
+        </Items>
+    </asp:Menu>
+    
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        
+        
+    </div>
+    </form>
+</body>
+</html>
+

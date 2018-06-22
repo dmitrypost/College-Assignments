@@ -1,0 +1,2 @@
+CREATE DEFINER = CURRENT_USER TRIGGER `UpdateInventory` AFTER INSERT ON `T_LineItem` FOR EACH ROW
+Update Inventory Set Inv_Quantity = If ((Select T_BuySell From Transaction Where T_ID = New.T_ID) = True,(Select Inv_Quantity From Inventory Where Inv_Name = New.Inv_Name)+(Select I_Quantity from T_LineItem where L_ID = new.L_ID),(Select Inv_Quantity From Inventory Where Inv_Name = New.Inv_Name)-(Select I_Quantity from T_LineItem where L_ID = new.L_ID))  Where Inv_Name = New.Inv_Name;

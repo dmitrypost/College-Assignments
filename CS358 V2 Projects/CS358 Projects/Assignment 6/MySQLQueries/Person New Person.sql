@@ -1,0 +1,1 @@
+Insert into person()values();

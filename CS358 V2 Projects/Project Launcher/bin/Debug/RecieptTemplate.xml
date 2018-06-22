@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<RecieptTemplate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <welcomeMessage>Welcome to</welcomeMessage>
+  <storeName>RecycleALot</storeName>
+  <location>RecycleBin</location>
+  <phonenumber>(555)222-3333</phonenumber>
+  <website>www.RecycleALot.com</website>
+  <thankYouMessage>Please come again!</thankYouMessage>
+</RecieptTemplate>

@@ -1,0 +1,13 @@
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 V2 Projects\bin\Debug\CS358 V2 Projects.exe.config
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 V2 Projects\obj\Debug\CS358 V2 Projects.csprojResolveAssemblyReference.cache
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 V2 Projects\obj\Debug\CS358_V2_Projects.Properties.Resources.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 V2 Projects\obj\Debug\CS358 V2 Projects.csproj.GenerateResource.Cache
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 V2 Projects\bin\Debug\CS358 V2 Projects.exe
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 V2 Projects\bin\Debug\CS358 V2 Projects.pdb
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 V2 Projects\obj\Debug\Launcher.LauncherForm.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 V2 Projects\obj\Debug\CS358 V2 Projects.exe
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 V2 Projects\obj\Debug\CS358 V2 Projects.pdb
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 V2 Projects\bin\Debug\MiTheme.dll
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 V2 Projects\bin\Debug\MiTheme.pdb
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 V2 Projects\bin\Debug\MiTheme.xml
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 V2 Projects\obj\Debug\Launcher.AssemblyItem.resources

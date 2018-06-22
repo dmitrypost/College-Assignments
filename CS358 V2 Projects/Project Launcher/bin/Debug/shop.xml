@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<productlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <product_list>
+    <product>
+      <price>0.36</price>
+      <name>Aluminum cans</name>
+    </product>
+    <product>
+      <price>0.3</price>
+      <name>Aluminum cast</name>
+    </product>
+    <product>
+      <price>0.3</price>
+      <name>Aluminum sheet</name>
+    </product>
+    <product>
+      <price>0.3</price>
+      <name>Aluminum siding</name>
+    </product>
+    <product>
+      <price>0.35</price>
+      <name>Aluminum Wheels</name>
+    </product>
+    <product>
+      <price>0.1</price>
+      <name>Aluminum Dirty</name>
+    </product>
+    <product>
+      <price>1.8</price>
+      <name>Copper #1</name>
+    </product>
+    <product>
+      <price>1.6</price>
+      <name>Copper #2</name>
+    </product>
+    <product>
+      <price>0.5</price>
+      <name>Copper Uncleaned</name>
+    </product>
+    <product>
+      <price>1.4</price>
+      <name>Copper Sheet</name>
+    </product>
+    <product>
+      <price>1</price>
+      <name>Brass Yellow</name>
+    </product>
+    <product>
+      <price>1.4</price>
+      <name>Brass Red</name>
+    </product>
+    <product>
+      <price>0.3</price>
+      <name>Brass Dirty</name>
+    </product>
+    <product>
+      <price>0.9</price>
+      <name>Radiators</name>
+    </product>
+    <product>
+      <price>0.4</price>
+      <name>Radiators Dirty</name>
+    </product>
+    <product>
+      <price>0.9</price>
+      <name>AL. Copper Radiator</name>
+    </product>
+    <product>
+      <price>0.3</price>
+      <name>Dirty AL. Copper Radiator</name>
+    </product>
+    <product>
+      <price>0.05</price>
+      <name>Tin Steel</name>
+    </product>
+    <product>
+      <price>0.06</price>
+      <name>Heavy Metal</name>
+    </product>
+    <product>
+      <price>0.05</price>
+      <name>Cast Iron</name>
+    </product>
+    <product>
+      <price>0.05</price>
+      <name>Automobile Complete</name>
+    </product>
+    <product>
+      <price>0.1</price>
+      <name>Soft Lead</name>
+    </product>
+    <product>
+      <price>0.2</price>
+      <name>Stainless Steel</name>
+    </product>
+    <product>
+      <price>0.08</price>
+      <name>Aluminum Wire Dirty</name>
+    </product>
+    <product>
+      <price>0.65</price>
+      <name># 1 Copper wire</name>
+    </product>
+    <product>
+      <price>0.5</price>
+      <name>#2 Copper Wire</name>
+    </product>
+    <product>
+      <price>0.25</price>
+      <name>Copper Wire Dirty</name>
+    </product>
+    <product>
+      <price>0.2</price>
+      <name>Batteries</name>
+    </product>
+    <product>
+      <price>0.8</price>
+      <name>AC compressor</name>
+    </product>
+    <product>
+      <price>0.02</price>
+      <name>Others</name>
+    </product>
+  </product_list>
+</productlist>

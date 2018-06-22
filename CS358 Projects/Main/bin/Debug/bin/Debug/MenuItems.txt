@@ -1,0 +1,14 @@
+﻿Blueberry Muffins	$0.85
+Strawberry Bagels	$0.80
+Lite Yogurt	$0.75
+Vanilla Ice Cream	$2.75
+Hash Browns	$2.50
+Toast		$2.00
+French Fries	$1.50
+Onion Soup	$3.00
+Coffee		$0.90
+Iced Tea		$1.00
+Hot Chocolate	$1.75
+Vodka Shot	$1.00
+Mints		$0.25
+White Chocolate	$2.50

@@ -1,0 +1,8 @@
+D:\Skydrive\Visual Studio 2012\Projects\CINS237 Projects\Main\obj\Debug\Main.exe
+D:\Skydrive\Visual Studio 2012\Projects\CINS237 Projects\Main\obj\Debug\Main.xml
+D:\Skydrive\Visual Studio 2012\Projects\CINS237 Projects\Main\obj\Debug\Main.pdb
+D:\Skydrive\Visual Studio 2012\Projects\CINS237 Projects\Main\bin\Debug\Main.exe
+D:\Skydrive\Visual Studio 2012\Projects\CINS237 Projects\Main\bin\Debug\Main.pdb
+D:\Skydrive\Visual Studio 2012\Projects\CINS237 Projects\Main\bin\Debug\Main.xml
+D:\Skydrive\Visual Studio 2012\Projects\CINS237 Projects\Main\obj\Debug\Main.Resources.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS237 Projects\Main\obj\Debug\Console Projects.vbproj.GenerateResource.Cache

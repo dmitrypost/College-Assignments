@@ -1,0 +1,20 @@
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\roslyn\csc.exe
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\roslyn\System.Collections.Immutable.dll
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\roslyn\System.Reflection.Metadata.dll
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\roslyn\vbc.exe
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\roslyn\VBCSCompiler.exe
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\roslyn\VBCSCompiler.exe.config
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\CS458 Projects.dll.config
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\CS458 Projects.dll
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\CS458 Projects.pdb
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\obj\Debug\CS458 Projects.csprojResolveAssemblyReference.cache
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\obj\Debug\CS458 Projects.dll
+D:\Skydrive\Visual Studio 2015\Projects\CS458 Projects\CS458 Projects\obj\Debug\CS458 Projects.pdb

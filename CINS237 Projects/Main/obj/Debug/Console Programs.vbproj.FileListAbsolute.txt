@@ -1,0 +1,3 @@
+D:\Skydrive\Visual Studio 2012\Projects\CINS237 Projects\Main\obj\Debug\Main.exe
+D:\Skydrive\Visual Studio 2012\Projects\CINS237 Projects\Main\obj\Debug\Main.xml
+D:\Skydrive\Visual Studio 2012\Projects\CINS237 Projects\Main\obj\Debug\Main.pdb

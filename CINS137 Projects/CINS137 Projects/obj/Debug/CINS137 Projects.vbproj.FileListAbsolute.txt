@@ -1,0 +1,107 @@
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\bin\Debug\CINS137 Projects.exe.config
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\bin\Debug\CINS137 Projects.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\bin\Debug\CINS137 Projects.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\bin\Debug\CINS137 Projects.xml
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Average_Calculator.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.CalculatorGUI.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Calendar.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Form2.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.RadioGUI.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137 Projects.vbproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137 Projects.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137 Projects.xml
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137 Projects.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Testing_Multiples.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Simple_Calculator.resources
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\bin\Debug\CINS137 Projects.exe.config
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\bin\Debug\CINS137 Projects.exe
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\bin\Debug\CINS137 Projects.pdb
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\bin\Debug\CINS137 Projects.xml
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Average_Calculator.resources
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.CalculatorGUI.resources
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Calendar.resources
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Form2.resources
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Resources.resources
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.RadioGUI.resources
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Simple_Calculator_Application.resources
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Simple_Calculator.resources
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Testing_Multiples.resources
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137 Projects.vbproj.GenerateResource.Cache
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137 Projects.exe
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137 Projects.xml
+\\ACER-PC\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137 Projects.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.BMI_Calculator.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Simple_Calculator_Application.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Present_Value_Calculator_Application.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Discount_Calcuator.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Craps.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Computer_Assisted_Instruction.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Computer_Assisted_Instruction_Reducing_Student_Fatigue.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Digit_Extraction.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.ArrayNumbers.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.ArrayNames.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Array_assending_order.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.ReadWriteApplication.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Form1.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Main.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\bin\Debug\CINS137 Projects.exe.config
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137 Projects.exe
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137 Projects.xml
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137 Projects.pdb
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\bin\Debug\CINS137 Projects.exe
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\bin\Debug\CINS137 Projects.pdb
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\bin\Debug\CINS137 Projects.xml
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Craps.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Array_assending_order.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.ArrayNames.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.ArrayNumbers.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Average_Calculator.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.BMI_Calculator.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.CalculatorGUI.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Calendar.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Computer_Assisted_Instruction_Reducing_Student_Fatigue.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Computer_Assisted_Instruction.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Digit_Extraction.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Discount_Calcuator.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Form2.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Main.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Present_Value_Calculator_Application.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.RadioGUI.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.ReadWriteApplication.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Form1.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Simple_Calculator_Application.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Simple_Calculator.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Testing_Multiples.resources
+D:\Documents\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137 Projects.vbproj.GenerateResource.Cache
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\bin\Debug\CINS137 Projects.exe.config
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137 Projects.exe
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137 Projects.xml
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137 Projects.pdb
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\bin\Debug\CINS137 Projects.exe
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\bin\Debug\CINS137 Projects.pdb
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\bin\Debug\CINS137 Projects.xml
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Craps.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Array_assending_order.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.ArrayNames.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.ArrayNumbers.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Average_Calculator.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.BMI_Calculator.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.CalculatorGUI.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Calendar.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Computer_Assisted_Instruction_Reducing_Student_Fatigue.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Computer_Assisted_Instruction.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Digit_Extraction.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Discount_Calcuator.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Form2.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Main.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Resources.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Present_Value_Calculator_Application.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.RadioGUI.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.ReadWriteApplication.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Form1.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Simple_Calculator_Application.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Simple_Calculator.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137_Projects.Testing_Multiples.resources
+D:\Skydrive\Visual Studio 2012\Projects\CINS137 Projects\CINS137 Projects\obj\Debug\CINS137 Projects.vbproj.GenerateResource.Cache

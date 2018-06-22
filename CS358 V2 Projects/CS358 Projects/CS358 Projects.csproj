@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BFA0DF98-90F3-47B1-A362-9EF8D16AD340}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CS358_Projects</RootNamespace>
+    <AssemblyName>CS358 Projects</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>CS358_Projects.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Usefull Libraries\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assignment 1\BMI_BFP.cs" />
+    <Compile Include="Assignment 1\BMI BFP Calculator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 1\BMI BFP Calculator.Designer.cs">
+      <DependentUpon>BMI BFP Calculator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 2\Recycle Shop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 2\Recycle Shop.Designer.cs">
+      <DependentUpon>Recycle Shop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 3\ArrayList.cs" />
+    <Compile Include="Assignment 3\ArrayListADT.cs" />
+    <Compile Include="Assignment 3\LinkedListADT.cs" />
+    <Compile Include="Assignment 3\OrderedLinkedListADT.cs" />
+    <Compile Include="Assignment 3\Program.cs" />
+    <Compile Include="Assignment 3\UnorderedArrayList.cs" />
+    <Compile Include="Assignment 4\BankAccount.cs" />
+    <Compile Include="Assignment 4\Bank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 4\Bank.Designer.cs">
+      <DependentUpon>Bank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 5\Products.cs" />
+    <Compile Include="Assignment 5\TemplateEditor.cs" />
+    <Compile Include="Assignment 5\Recycle Shop V2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 5\Recycle Shop V2.Designer.cs">
+      <DependentUpon>Recycle Shop V2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 5\Transactions.cs" />
+    <Compile Include="Assignment 6\Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 6\Customers.Designer.cs">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 6\MySQLConnector.cs" />
+    <Compile Include="Assignment 6\Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 6\Product.Designer.cs">
+      <DependentUpon>Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 6\Products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 6\Products.Designer.cs">
+      <DependentUpon>Products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 6\Purchases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 6\Purchases.Designer.cs">
+      <DependentUpon>Purchases.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 6\Purchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 6\Purchase.Designer.cs">
+      <DependentUpon>Purchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 6\Sale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 6\Sale.Designer.cs">
+      <DependentUpon>Sale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 6\Sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 6\Sales.Designer.cs">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 6\Vendor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 6\Vendor.Designer.cs">
+      <DependentUpon>Vendor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 6\Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 6\Customer.Designer.cs">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 6\Shop Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 6\Shop Management.Designer.cs">
+      <DependentUpon>Shop Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 6\ShopMySQLManagement.cs" />
+    <Compile Include="Assignment 6\SQLiteConnector.cs" />
+    <Compile Include="Assignment 6\TextBoxEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Assignment 6\TextBoxEx.Designer.cs">
+      <DependentUpon>TextBoxEx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment 6\Vendors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assignment 6\Vendors.Designer.cs">
+      <DependentUpon>Vendors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Assignment 1\BMI BFP Calculator.resx">
+      <DependentUpon>BMI BFP Calculator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 2\Recycle Shop.resx">
+      <DependentUpon>Recycle Shop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 4\Bank.resx">
+      <DependentUpon>Bank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 5\Recycle Shop V2.resx">
+      <DependentUpon>Recycle Shop V2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 6\Customers.resx">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 6\Product.resx">
+      <DependentUpon>Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 6\Products.resx">
+      <DependentUpon>Products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 6\Purchases.resx">
+      <DependentUpon>Purchases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 6\Purchase.resx">
+      <DependentUpon>Purchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 6\Sale.resx">
+      <DependentUpon>Sale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 6\Sales.resx">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 6\Vendor.resx">
+      <DependentUpon>Vendor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 6\Customer.resx">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 6\Shop Management.resx">
+      <DependentUpon>Shop Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 6\TextBoxEx.resx">
+      <DependentUpon>TextBoxEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assignment 6\Vendors.resx">
+      <DependentUpon>Vendors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Assignment 6\MySQLQueries\DatabaseModel.mwb" />
+    <None Include="Assignment 6\MySQLQueries\DatabaseModel.mwb.bak" />
+    <None Include="Assignment 6\MySQLQueries\ResetRootPassword.cmd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\BFP Chart Men.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\BFP Chart Women.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assignment 2\requirements.txt" />
+    <Content Include="Assignment 3\Requirements.txt" />
+    <Content Include="Assignment 6\MySQLQueries\Customer New Customer.sql" />
+    <Content Include="Assignment 6\MySQLQueries\Database.sql" />
+    <Content Include="Assignment 6\MySQLQueries\Item Add New.sql" />
+    <Content Include="Assignment 6\MySQLQueries\List Customers.sql" />
+    <Content Include="Assignment 6\MySQLQueries\List Item.sql" />
+    <Content Include="Assignment 6\MySQLQueries\List Location.sql" />
+    <Content Include="Assignment 6\MySQLQueries\List Person.sql" />
+    <Content Include="Assignment 6\MySQLQueries\List Transactions.sql" />
+    <Content Include="Assignment 6\MySQLQueries\Location Add New.sql" />
+    <Content Include="Assignment 6\MySQLQueries\Location Exists.sql" />
+    <Content Include="Assignment 6\MySQLQueries\Location Update City.sql" />
+    <Content Include="Assignment 6\MySQLQueries\Location Update State.sql" />
+    <Content Include="Assignment 6\MySQLQueries\Location Update Zip.sql" />
+    <Content Include="Assignment 6\MySQLQueries\mysql-init.txt" />
+    <Content Include="Assignment 6\MySQLQueries\Person New Person.sql" />
+    <Content Include="Assignment 6\MySQLQueries\Show Tables.sql" />
+    <Content Include="Assignment 6\MySQLQueries\Transaction Add New.sql" />
+    <Content Include="Assignment 6\MySQLQueries\Update Inventory On Addition.sql" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

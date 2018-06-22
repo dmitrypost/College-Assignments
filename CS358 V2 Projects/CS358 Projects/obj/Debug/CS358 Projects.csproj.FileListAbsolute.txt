@@ -1,0 +1,25 @@
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\bin\Debug\CS358 Projects.exe.config
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\bin\Debug\CS358 Projects.exe
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\bin\Debug\CS358 Projects.pdb
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Assignment_1.BMI_BFP_Calculator.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Assignment_2.Recycle_Shop.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Assignment_4.Bank.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Assignment_5.Recycle_Shop_V2.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Properties.Resources.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358 Projects.csproj.GenerateResource.Cache
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358 Projects.exe
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358 Projects.pdb
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358 Projects.csprojResolveAssemblyReference.cache
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\bin\Debug\MySql.Data.dll
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Assignment_6.Shop_Customer.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Assignment_6.Shop_Management.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Assignment_6.TextBoxEx.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Assignment_6.Product.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Assignment_6.Products.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Assignment_6.Customers.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Assignment_6.Vendors.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Assignment_6.Purchases.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Assignment_6.Sales.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Assignment_6.New_Vendor.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Assignment_6.Purchase.resources
+D:\Skydrive\Visual Studio 2015\Projects\CS358 V2 Projects\CS358 Projects\obj\Debug\CS358_Projects.Assignment_6.Sale.resources

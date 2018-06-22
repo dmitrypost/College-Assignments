@@ -1,0 +1,8 @@
+D:\Desktop\Assignment 1\Assignment 1\bin\Assignment 1.dll.config
+D:\Desktop\Assignment 1\Assignment 1\bin\Assignment 1.dll
+D:\Desktop\Assignment 1\Assignment 1\bin\Assignment 1.pdb
+D:\Desktop\Assignment 1\Assignment 1\obj\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+D:\Desktop\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+D:\Desktop\Assignment 1\Assignment 1\obj\Debug\Assignment 2.csproj.GenerateResource.Cache
+D:\Desktop\Assignment 1\Assignment 1\obj\Debug\Assignment 1.dll
+D:\Desktop\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb

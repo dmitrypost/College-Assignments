@@ -1,0 +1,7 @@
+﻿<add name="ConnectionString" connectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\University.accdb"
+      providerName="System.Data.OleDb" />
+
+To allow connection from access to linq install ALinq with
+Install-Package ALinq
+Tools > NuGet Package Manager > Pacage Manager Console
+

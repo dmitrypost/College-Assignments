@@ -1,0 +1,1 @@
+"C:\Program Files\MySQL\MySQL Server 5.6\bin\mysqld.exe" --defaults-file="C:\\ProgramData\\MySQL\\MySQL Server 5.6\\my.ini" --init-file=mysql-init.txt
