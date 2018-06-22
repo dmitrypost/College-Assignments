@@ -1,0 +1,21 @@
+1 create a bibliography
+program accepts input of data froma user: author, title of book, publisher, year and number of pages
+displays the dat in a formatted text pane using a standard mla or ap style bibliography entry.
+include font family, style and tabs in solution
+
+2 your music
+swing program with a windows look and feel to display data about your favorite musical artists. construct parallel arrays with data such
+as artis name, genre, greatest hit, and record label.
+interface displays data in formatted jtextpane with scrolling capabilities
+menu allows add new data to arrays.
+instead of using jcombobox reate sort command on the menu with a submenu that displays the field names.
+scrolling includes horizontal and vertical
+
+4 average grades
+swing program that declares an empty array of grades with a max length of 50.
+joptionpane input box with a while loop to allow the user to enter the grades using a -1 as a sentiel value.
+after the grades are entered, context pane shows the grades sorted from lowest to highest.
+loop goes through array looking for elements that are greater than 0.
+create an average of grades
+display average in jtextpane and format to round the average.
+

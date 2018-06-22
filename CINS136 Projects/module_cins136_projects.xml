@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_cins136_projects" default="compile.module.cins136_projects">
+  <dirname property="module.cins136_projects.basedir" file="${ant.file.module_cins136_projects}"/>
+  
+  <property name="module.jdk.home.cins136_projects" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.cins136_projects" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.cins136_projects" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.cins136_projects" value="${compiler.args}"/>
+  
+  <property name="cins136_projects.output.dir" value="${module.cins136_projects.basedir}/../out/production/CINS136 Projects"/>
+  <property name="cins136_projects.testoutput.dir" value="${module.cins136_projects.basedir}/../out/test/CINS136 Projects"/>
+  
+  <path id="cins136_projects.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="cins136_projects.module.production.classpath">
+    <path refid="${module.jdk.classpath.cins136_projects}"/>
+  </path>
+  
+  <path id="cins136_projects.runtime.production.module.classpath">
+    <pathelement location="${cins136_projects.output.dir}"/>
+  </path>
+  
+  <path id="cins136_projects.module.classpath">
+    <path refid="${module.jdk.classpath.cins136_projects}"/>
+    <pathelement location="${cins136_projects.output.dir}"/>
+  </path>
+  
+  <path id="cins136_projects.runtime.module.classpath">
+    <pathelement location="${cins136_projects.testoutput.dir}"/>
+    <pathelement location="${cins136_projects.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.cins136_projects">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.cins136_projects">
+    <patternset refid="excluded.from.module.cins136_projects"/>
+  </patternset>
+  
+  <path id="cins136_projects.module.sourcepath">
+    <dirset dir="${module.cins136_projects.basedir}">
+      <include name="source"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.cins136_projects" depends="compile.module.cins136_projects.production,compile.module.cins136_projects.tests" description="Compile module CINS136 Projects"/>
+  
+  <target name="compile.module.cins136_projects.production" depends="register.custom.compilers" description="Compile module CINS136 Projects; production classes">
+    <mkdir dir="${cins136_projects.output.dir}"/>
+    <javac2 destdir="${cins136_projects.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.cins136_projects}/javac">
+      <compilerarg line="${compiler.args.cins136_projects}"/>
+      <bootclasspath refid="cins136_projects.module.bootclasspath"/>
+      <classpath refid="cins136_projects.module.production.classpath"/>
+      <src refid="cins136_projects.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.cins136_projects"/>
+    </javac2>
+    
+    <copy todir="${cins136_projects.output.dir}">
+      <fileset dir="${module.cins136_projects.basedir}/source">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.cins136_projects.tests" depends="register.custom.compilers,compile.module.cins136_projects.production" description="compile module CINS136 Projects; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.cins136_projects" description="cleanup module">
+    <delete dir="${cins136_projects.output.dir}"/>
+    <delete dir="${cins136_projects.testoutput.dir}"/>
+  </target>
+</project>
